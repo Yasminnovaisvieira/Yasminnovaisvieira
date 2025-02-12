@@ -13,6 +13,8 @@ Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png' height='70'>&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' height='70'>
+&nbsp;&nbsp;&nbsp;
 <img src='https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png' height='70'>
 &nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/648px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
@@ -25,8 +27,6 @@ Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino
 
 <p>
 <img src='https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png' height='70'>&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' height='70'>
-&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 
 </p>
