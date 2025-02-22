@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnovaisvieira)]
-
 ## I have already had contact with::
 
 <p>
