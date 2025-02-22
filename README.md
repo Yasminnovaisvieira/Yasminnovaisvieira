@@ -1,11 +1,5 @@
-# Olá! Me chamo Yasmin Novais Vieira :blush:
-Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino Médio e em Técnico em Informática para Internet, ambos na ETEC de Hortolândia. Atualmente, sou Aprendiz em Digital Solutions na BOSCH e estou cursando Desenvolvimento de Sistemas no SENAI Roberto Mange.
-<br>
-<p align='center'>
-<img src='https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif'>
-</p>
+## I have already had contact with::
 
-## Já tive contato com:
 <p>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 <img src='https://bashlogo.com/img/symbol/png/monochrome_dark.png' height='70'>
@@ -13,7 +7,7 @@ Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png' height='70'>&nbsp;&nbsp;&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' height='70'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' height='70'>
 &nbsp;&nbsp;&nbsp;
 <img src='https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png' height='70'>
 &nbsp;&nbsp;&nbsp;
@@ -22,8 +16,7 @@ Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino
 </p>
 
 
-## Pretendo explorar:
-
+## I intend to explore:
 
 <p>
 <img src='https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png' height='70'>&nbsp;&nbsp;&nbsp;
@@ -31,6 +24,6 @@ Eu tenho 19 anos. Sou formada em Técnico em Administração Integrado ao Ensino
 
 </p>
 
-## Minhas redes sociais:
+## My social networks:
 
 <a href="https://www.linkedin.com/in/yasmin-novais-vieira"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" height='70'/></a>
