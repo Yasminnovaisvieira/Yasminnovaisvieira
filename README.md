@@ -1,9 +1,9 @@
 <div>
 <a href="https://github.com/yasminnovaisvieira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnovaisvieira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnovaisvieira&hide=hack&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## I have already had contact with::
+## I have already had contact with:
 
 <p>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png' height='70'>&nbsp;&nbsp;&nbsp;
